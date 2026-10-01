@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"resource_group_storage","Source":"git::https://github.com/VadymMelnyk/terraform-azurerm-resource_group_storage.git?ref=1.0.0","Dir":".terraform/modules/resource_group_storage"}]}
