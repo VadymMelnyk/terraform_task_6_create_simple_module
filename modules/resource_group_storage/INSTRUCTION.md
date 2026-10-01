@@ -46,11 +46,4 @@ module "storage" {
   location             = "East US"
   storage_account_name = "stappprod987654"
 
-  account_tier             = "Standard"
-  account_replication_type = "LRS"
-
-  tags = {
-    Environment = "Production"
-    ManagedBy   = "Terraform"
-  }
 }
